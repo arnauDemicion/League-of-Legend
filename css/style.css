@@ -1,0 +1,44 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#header-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/lol-league-of-legends-ios-android.jpg);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+.text-in-white{
+color: rgba(0, 0, 0, .75);
+}
+
+
+
+#parallax-section {
+    background-image: url(../images/fondo.png);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#segond-section {
+    background-color: #264e4e;
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/olaf.htm);
+    background-position: center center, center center;
+    background-size: cover, cover;
+    background-repeat: repeat, repeat;
+}
+
+#carte{
+    height: 320px;
+    border: 3px solid darkgrey;
+    µ
+}
+#aphelios{
+    height: 1200px;
+}
